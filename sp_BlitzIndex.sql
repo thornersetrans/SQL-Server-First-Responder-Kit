@@ -79,6 +79,7 @@ Changes in v4.0 - YYYY/MM/DD:
 
 Changes in v3.0 - 2016/03/20:
  - Prioritized results
+ - Mode now defaults to 0, Diagnose. Mode=4 gives results that previous versions defaulted to
  - Moved URL to near the end of columns
  - Added 100k/day minimum benefit to high-value missing index recs
  - Expanded avg query cost on missing indexes to 4 decimal places
